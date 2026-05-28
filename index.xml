@@ -6,6 +6,15 @@
     <description>Recent content on 나의 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
+    <lastBuildDate>Thu, 28 May 2026 02:12:10 +0900</lastBuildDate>
     <atom:link href="https://kyle929486.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://kyle929486.github.io/posts/first-post/</link>
+      <pubDate>Thu, 28 May 2026 02:12:10 +0900</pubDate>
+      <guid>https://kyle929486.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;안녕하세요!
+여기에 본문 내용이 들어갑니다.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
