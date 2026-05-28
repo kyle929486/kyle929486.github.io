@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 나의 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 28 May 2026 21:18:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:36:17 +0900</lastBuildDate>
     <atom:link href="https://kyle929486.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://kyle929486.github.io/posts/third-post/</link>
+      <pubDate>Thu, 28 May 2026 21:36:17 +0900</pubDate>
+      <guid>https://kyle929486.github.io/posts/third-post/</guid>
+      <description>&lt;p&gt;deploy.sh로 해도 잘 올라갈까요?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second Post</title>
       <link>https://kyle929486.github.io/posts/second-post/</link>
